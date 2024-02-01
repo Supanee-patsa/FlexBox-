@@ -6,3 +6,12 @@ element.style {
 flex-wrap: wrap;
 min-height: 60%;
 }
+.card {
+    max-width: 468px;
+    max-height: 160px;
+    position: absolute;
+    justify-content: center;
+    background-color: #F48C06;
+    display: flex;
+    position:relative
+}
