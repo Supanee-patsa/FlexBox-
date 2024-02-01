@@ -2,3 +2,7 @@ element.style {
     justify-content: center;
     align-items: flex-start;
 }
+.Iarge {
+flex-wrap: wrap;
+min-height: 60%;
+}
