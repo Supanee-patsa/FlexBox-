@@ -24,6 +24,15 @@ body {
     border-radius: 4px;
 }
 
+.item-2 {
+    width: 78px;
+    min-height: 78px;
+    background: #9D0208;
+    color: white;
+    margin: 10px;
+    border-radius: 4px;
+}
+
 .container {
     width: 468px;
     height: 160px;
@@ -33,3 +42,5 @@ body {
     display: flex;
     padding: 10px;
 }
+
+
