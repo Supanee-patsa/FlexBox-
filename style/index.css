@@ -24,4 +24,12 @@ body {
     border-radius: 4px;
 }
 
-
+.container {
+    width: 468px;
+    height: 160px;
+    background: #F48C06;
+    margin: 10px;
+    border-radius: 8px;
+    display: flex;
+    padding: 10px;
+}
