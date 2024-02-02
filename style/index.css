@@ -43,4 +43,28 @@ body {
     padding: 10px;
 }
 
+.container {
+    justify-content: center;
+    align-items: center;
+}
 
+.flex-end-center {
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.space-between {
+    justify-content: space-between;
+}
+
+.grow {
+    flex-grow: 1;
+}
+
+.self-end {
+    align-self: end;
+}
+
+.flex-end {
+    align-items: flex-end;
+}
