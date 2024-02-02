@@ -1,17 +1,27 @@
-element.style {
-    justify-content: center;
-    align-items: flex-start;
+body {
+    background-color: #370617;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
 }
-.Iarge {
-flex-wrap: wrap;
-min-height: 60%;
+
+.boxes { 
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    height: auto;
+    align-items: center;
+    margin: 20px;
+    display: flex;  
 }
-.card {
-    max-width: 468px;
-    max-height: 160px;
-    position: absolute;
-    justify-content: center;
-    background-color: #F48C06;
-    display: flex;
-    position:relative
+
+.item {
+    width: 78px;
+    height: 78px;
+    background: #9D0208;
+    color: white;
+    margin: 10px;
+    border-radius: 4px;
 }
+
+
